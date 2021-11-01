@@ -13,3 +13,10 @@ Name : Vipul Kumar Singh
 
 [Vipul-2003](https://github.com/vipul-2003)
 
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
